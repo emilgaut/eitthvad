@@ -2,7 +2,7 @@ text
 lga+´gp+
 
 
-´´´ python
+``` python
 from machine import Pin, SoftI2C
 from I2C_LCD import I2cLcd
 
@@ -23,6 +23,6 @@ lcd.putstr("Heimur")
 
 # Skoðaðu skrána LCD_API.py til að kynna þér önnur föll sem 
 # hægt er að nota með LCD skjánum
-´´´
+```
 
 meiri texti
